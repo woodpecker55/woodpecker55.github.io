@@ -1,0 +1,15 @@
+Terms of Service (ToS) for webhosting:
+    - Don't upload media that contains pornography
+    - Don't upload media that contains violence
+    - Don't upload media that contains children
+    - Don't upload doxxes
+    - Don't upload malware
+    - Don't upload spyware
+    - Don't upload obfuscated JavaScript
+    - Don't upload minified JavaScript
+    - Don't endorse terrorism
+    - Don't endorse hatred of groups of people
+    - Don't endrose any kind of marketplace
+    - Don't use my service to sell any kind of goods
+
+Make sure to check the ToS regularly, since it can change overtime.
